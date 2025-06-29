@@ -8,7 +8,7 @@ My journey in tech and analysis has been shaped by:
 
 🧪 Teaching Assistant roles in subjects like Data Spasial (hello QGIS lovers!), C++ programming (yep, I survived pointers), and good ol’ Word & Excel (even taught Macros like a boss).
 
-📈 Internship as a Data Analyst, where I dove deep into spreadsheets and dashboards, using tools like Google Sheets, Tableau, and Looker Studio.
+📈 Internship as a Data Analyst, where I dove deep into spreadsheets and dashboards, using tools like Google Sheets 
 
 🤹‍♀️ Leadership in campus media, managing publication, analytics-driven content creation, and video production that actually boosted engagement (yesss, metrics matter).
 
